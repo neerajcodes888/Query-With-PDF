@@ -16,7 +16,7 @@ genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 
 
-st.session_state['answer'] = ''!
+st.session_state['answer'] = ''
 
 st.write(st.session_state)
 
