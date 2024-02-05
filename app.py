@@ -80,8 +80,8 @@ def get_gemini_repsonse(input):
     return response.text
 
 def main():
-    st.set_page_config("Chat PDF")
-    st.header("Chat with PDF using Gemini💁")
+    st.set_page_config("PDF Query")
+    st.header("Query with our PDF")
     response=""
     user_question = st.text_input("Ask a Question from the PDF Files")
 
