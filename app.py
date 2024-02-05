@@ -15,21 +15,6 @@ os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 
-
-st.session_state['answer'] = ''
-
-st.write(st.session_state)
-
-realans = ['', 'abc', 'edf']
-
-if  st.session_state['answer'] in realans:
-    answerStat = "correct"
-elif st.session_state['answer'] not in realans:
-    answerStat = "incorrect"
-
-st.write(st.session_state)
-st.write(answerStat)
-
 def get_pdf_text(pdf_docs):
     text=""
     for pdf in pdf_docs:
