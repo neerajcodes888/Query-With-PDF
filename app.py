@@ -100,7 +100,7 @@ def main():
                 st.success("Done")
         if st.button("Get KeyPoints",type="primary"):
             st.empty() 
-            input_prompt=""" fetch all  key points from given text information
+            input_prompt=""" fetch all  key points from given text information ,  do not give extra other information . only give information relevant to text information
                     """
             space="                        "
             raw_text = get_pdf_text(pdf_docs)
