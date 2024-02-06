@@ -137,7 +137,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
+GOOGLE_API_KEY = "AIzaSyDJ3ho5gdoCEEEke4f4c8DQFfZ5aGlX3FM"
 # mypy
 .mypy_cache/
 .dmypy.json
