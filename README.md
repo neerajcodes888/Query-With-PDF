@@ -57,7 +57,7 @@ For a live demonstration, you can visit our demo website.
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, please feel free to submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/neerajcodes888/Query-With-PDF/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 - Langchain Google GenAI for providing state-of-the-art language understanding capabilities.
