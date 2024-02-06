@@ -37,7 +37,14 @@ cd Query-With-PDFs
 1. **Install the required dependencies:**
 
 ```bash
-streamlit 
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
 ```
 ## Usage
 1. **Run the application:**
