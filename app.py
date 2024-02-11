@@ -1,4 +1,4 @@
-import streamlit as st
+ilsimport streamlit as st
 from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 import os
@@ -100,7 +100,8 @@ def main():
                 st.success("Done")
         if st.button("Get KeyPoints",type="primary"):
             st.empty() 
-            input_prompt=""" fetch all  key points from given text information ,  do not give extra other information . only give information relevant to text information
+            input_prompt=""" fetch all  key points in details from given text information ,  do not give extra other information . only give information relevant to text information
+            
                     """
             space="                        "
             raw_text = get_pdf_text(pdf_docs)
