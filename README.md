@@ -66,6 +66,10 @@ In this video, you can see how users can ask questions related to the content of
 ![Ask Question](ask_question_demo.gif)
 
 ### Get Key Points of Your PDF
+
+
+
+
 In this video, users can observe how the application automatically extracts key points and relevant information from the uploaded PDFs. These key points provide concise summaries of the document's content, enabling users to quickly grasp the essential information contained within the PDF.
 
 ![Get Key Points](get_keypoints_demo.gif)
