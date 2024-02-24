@@ -70,6 +70,10 @@ In this video, you can see how users can ask questions related to the content of
 
 
 
+![KeyPoints_QueryWithPDFs](https://github.com/neerajcodes888/Query-With-PDF/assets/98253646/7998c99d-4e24-4738-9c39-e0a7510f27cb)
+
+
+
 In this video, users can observe how the application automatically extracts key points and relevant information from the uploaded PDFs. These key points provide concise summaries of the document's content, enabling users to quickly grasp the essential information contained within the PDF.
 
 ![Get Key Points](get_keypoints_demo.gif)
