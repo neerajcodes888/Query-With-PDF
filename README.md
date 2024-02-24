@@ -68,7 +68,8 @@ For a live demonstration, you can visit our demo website.
 ![Ask_QueryWithPDFs](https://github.com/neerajcodes888/Query-With-PDF/assets/98253646/a7acb343-a449-46e2-b3b5-a00ab57681a3)
 
 
-In this video, you can see how users can ask questions related to the content of their uploaded PDF files. The application provides a user-friendly interface for entering natural language queries. The advanced language understanding models process these queries to generate accurate answers based on the content of the PDF.
+In this demo video, you can see how users can ask questions related to the content of their uploaded PDF files. The application provides a user-friendly interface for entering natural language queries. The advanced language understanding models process these queries to generate accurate answers based on the content of the PDF.
+
 
 ![Ask Question](ask_question_demo.gif)
 
@@ -81,7 +82,7 @@ In this video, you can see how users can ask questions related to the content of
 
 
 
-In this video, users can observe how the application automatically extracts key points and relevant information from the uploaded PDFs. These key points provide concise summaries of the document's content, enabling users to quickly grasp the essential information contained within the PDF.
+In this demo video, users can observe how the application automatically extracts key points and relevant information from the uploaded PDFs. These key points provide concise summaries of the document's content, enabling users to quickly grasp the essential information contained within the PDF.
 
 ![Get Key Points](get_keypoints_demo.gif)
 
