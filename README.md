@@ -63,6 +63,11 @@ streamlit run app.py
 For a live demonstration, you can visit our demo website.
 
 ### Ask Questions to Your PDF
+
+
+![Ask_QueryWithPDFs](https://github.com/neerajcodes888/Query-With-PDF/assets/98253646/a7acb343-a449-46e2-b3b5-a00ab57681a3)
+
+
 In this video, you can see how users can ask questions related to the content of their uploaded PDF files. The application provides a user-friendly interface for entering natural language queries. The advanced language understanding models process these queries to generate accurate answers based on the content of the PDF.
 
 ![Ask Question](ask_question_demo.gif)
