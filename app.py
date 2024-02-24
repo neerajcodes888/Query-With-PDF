@@ -72,7 +72,7 @@ def user_input(user_question):
         , return_only_outputs=True)
 
     print(response)
-    st.write("Response:\n\n\n", response["output_text"])
+    st.write("Response:\n\n\n\n", response["output_text"])
 
 
 def get_gemini_repsonse(input):
