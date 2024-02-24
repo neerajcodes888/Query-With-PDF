@@ -60,7 +60,7 @@ streamlit run app.py
 4. Receive detailed answers and key points extracted from the PDF.
 
 ## Demo
-For a live demonstration, you can visit our demo website.
+For a live demonstration, you can visit our demo [website](https://querywithpdfs.onrender.com/).
 
 ### Ask Questions to Your PDF
 
